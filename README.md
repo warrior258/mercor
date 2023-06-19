@@ -1,2 +1,2 @@
 # Output
-(Click Here)[https://glittering-cat-bfc45d.netlify.app/]
+[Click Here](https://glittering-cat-bfc45d.netlify.app/)
